@@ -1,0 +1,66 @@
+
+--- 
+locations: 
+  columns: 
+  - id
+  - address
+  - latitude
+  - longitude
+  records: 
+  - - 1
+    - !binary |
+      4Liq4LiW4Liy4LiZ4Li14Lij4LiW4LmE4Lif4Lif4LmJ4Liy4Lir4Lih4Lit
+      4LiK4Li04LiV
+
+    - 13.8025718
+    - 100.5538617
+  - - 2
+    - !binary |
+      4Liq4LiW4Liy4LiZ4Li14Lij4LiW4LmE4Lif4Lif4LmJ4Liy4Liq4Liw4Lie
+      4Liy4LiZ4LiE4Lin4Liy4Lii
+
+    - 13.7938728
+    - 100.5497847
+  - - 3
+    - !binary |
+      4Liq4LiW4Liy4LiZ4Li14Lij4LiW4LmE4Lif4Lif4LmJ4Liy4Lit4Liy4Lij
+      4Li1
+
+    - 15.0051013
+    - 102.1374565
+  - - 4
+    - !binary |
+      4Liq4LiW4Liy4LiZ4Li14Lij4LiW4LmE4Lif4Lif4LmJ4Liy4Liq4LiZ4Liy
+      4Lih4LmA4Lib4LmJ4Liy
+
+    - 13.7725379
+    - 100.5420885
+  - - 5
+    - !binary |
+      4Liq4LiW4Liy4LiZ4Li14Lij4LiW4LmE4Lif4Lif4LmJ4Liy4Lit4LiZ4Li4
+      4Liq4Liy4Lin4Lij4Li14Lii4LmM4LiK4Lix4Lii4Liq4Lih4Lij4Lig4Li5
+      4Lih4Li0
+
+    - 13.7627232
+    - 100.5370978
+  - - 6
+    - !binary |
+      4Liq4LiW4Liy4LiZ4Li14Lij4LiW4LmE4Lif4Lif4LmJ4Liy4Lie4LiN4Liy
+      4LmE4LiX
+
+    - 13.7569467
+    - 100.5338774
+  - - 7
+    - !binary |
+      4Liq4LiW4Liy4LiZ4Li14Lij4LiW4LmE4Lif4Lif4LmJ4Liy4Lij4Liy4LiK
+      4LmA4LiX4Lin4Li1
+
+    - 13.751828
+    - 100.5315853
+  - - 8
+    - !binary |
+      4Liq4LiW4Liy4LiZ4Li14Lij4LiW4LmE4Lif4Lif4LmJ4Liy4Liq4Lii4Liy
+      4Lih
+
+    - 13.7455162
+    - 100.5346037
