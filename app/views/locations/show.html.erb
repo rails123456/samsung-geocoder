@@ -1,0 +1,32 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Address:</b>
+  <%= @location.address %>
+</p>
+
+<p>
+  <b>Latitude:</b>
+  <%= @location.latitude %>
+</p>
+
+<p>
+  <b>Longitude:</b>
+  <%= @location.longitude %>
+</p>
+
+<p>
+  <% url = "http://maps.google.com/maps/api/staticmap?size=450x300&" %>
+  <% url += "sensor=false&zoom=16&markers=#{@location.latitude}%2C" %>
+  <% url += "#{@location.longitude}" %>
+  <%= image_tag "#{url}" %>
+</p>
+
+<p>
+  <% url = "http://maps.google.com/maps?q=#{@location.latitude},#{@location.longitude}+" %>
+  <% url += "(#{@location.address})&iwloc=A&hl=th" %>
+  <%= link_to "Google Map", "#{url}", :target => '_blank' %>
+</p>
+
+<%= link_to 'Edit', edit_location_path(@location) %> |
+<%= link_to 'Back', locations_path %>

@@ -1,0 +1,9 @@
+--- 
+open_files: 
+  - Gemfile
+  - app/models/location.rb
+  - app/assets/stylesheets/application.css
+  - app/views/locations/index.html.erb
+  - app/controllers/locations_controller.rb
+  - app/views/layouts/application.html.erb
+  - config/routes.rb
