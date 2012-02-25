@@ -6,22 +6,22 @@ cursor_positions:
   - :path: Gemfile
     :cursor_offset: 459
     :timestamp: 2012-02-24 16:05:51 -08:00
-  - :path: app/models/location.rb
-    :cursor_offset: 170
-    :timestamp: 2012-02-24 14:57:44 -08:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2012-02-25 03:48:17 -08:00
+  - :path: app/controllers/locations_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-02-25 03:48:17 -08:00
+  - :path: app/views/locations/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-02-25 03:48:17 -08:00
   - :path: app/assets/stylesheets/application.css
     :cursor_offset: 0
-    :timestamp: 2012-02-24 15:46:08 -08:00
-  - :path: app/views/locations/index.html.erb
-    :cursor_offset: 61
-    :timestamp: 2012-02-24 15:57:18 -08:00
-  - :path: app/controllers/locations_controller.rb
-    :cursor_offset: 157
-    :timestamp: 2012-02-24 15:57:07 -08:00
+    :timestamp: 2012-02-25 03:48:17 -08:00
+  - :path: app/models/location.rb
+    :cursor_offset: 0
+    :timestamp: 2012-02-25 03:48:17 -08:00
   - :path: app/views/layouts/application.html.erb
-    :cursor_offset: 95
-    :timestamp: 2012-02-24 16:15:23 -08:00
-  - :path: config/routes.rb
-    :cursor_offset: 91
-    :timestamp: 2012-02-24 16:12:59 -08:00
+    :cursor_offset: 0
+    :timestamp: 2012-02-25 03:48:17 -08:00
 files_to_retain: 0
