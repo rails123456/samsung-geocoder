@@ -24,3 +24,4 @@ gem 'nifty-generators'
 gem 'kaminari'
 gem 'mongrel', :group => :development
 gem 'yaml_db'
+gem 'therubyracer'
