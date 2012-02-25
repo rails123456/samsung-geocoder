@@ -22,5 +22,5 @@ gem 'jquery-rails'
 gem 'geocoder'
 gem 'nifty-generators'
 gem 'kaminari'
-#gem 'mongrel'
+gem 'mongrel', :group => :development
 gem 'yaml_db'
